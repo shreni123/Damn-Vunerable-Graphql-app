@@ -1,6 +1,6 @@
 FROM python:3.7-alpine
 
-LABEL description="Damn Vulnerable GraphQL Application"
+LABEL description="Damn Vunerable GraphqL app"
 LABEL github="https://github.com/shreni123/Damn-Vunerable-Graphql-app"
 LABEL maintainers="Shreni"
 
